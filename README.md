@@ -1,7 +1,10 @@
 ## Repositório de Biopsias de Transição Esofagogastrica - AP Criado: 23/mar/23  Atualizado(a): 02/jun/23  Resolvido: 02/ago/23
 Status:	Em Produção
+
 Projeto:	Health Intelligence - Health Intelligence
+
 Componentes:	RPJ2023_R1 
+
 Versões afetadas:	Nenhum 
 Versões corrigidas:	Nenhum 
 Tipo: 	Tarefa 	Prioridade: 	Alta 
